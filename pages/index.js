@@ -9,6 +9,7 @@ const Home = () => (
     <Head>
       <title>Home</title>
     </Head>
+    <img src="/static/kakyoin.jpg" width="400" />
     <h1>Hello NextJS</h1>
     <Link href="/users">
       <a>Usuários</a>
